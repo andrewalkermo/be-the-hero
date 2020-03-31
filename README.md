@@ -1,6 +1,6 @@
 # Be the Hero - Semana OmniStack 11.0
 
-Esse projeto é uma platafoma que aproxima ONGs de pessoas que possam contribuir com alguma causa. Foi construido utilizando: Node/React/React Native.
+Esse projeto é uma plataforma que aproxima ONGs de pessoas que possam contribuir com alguma causa. Foi construído utilizando: Node/React/React Native.
 
 Dentro dessa stack cada ferramenta tem sua própria responsabilidade:
 
