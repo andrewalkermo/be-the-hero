@@ -9,5 +9,4 @@ Dentro dessa stack cada ferramenta tem sua própria responsabilidade:
 - **React Native**: Contrução do app Mobile e PWA da aplicação que é utilizada pelos usuáarios que desejam contrinuir para casos de ONGs;
 
 **Disponivel em:** 
-[Sistema Web para ONGs](https://app-beethehero-andrewalkermo.netlify.com)
-[PWA do app para usuáriios que desejam ajudar as ONGs](https://pwa-bethehero-andrewalkermo.netlify.com)
+[Sistema Web para ONGs](https://app-beethehero-andrewalkermo.netlify.com)<br/>[PWA do app para usuáriios que desejam ajudar as ONGs](https://pwa-bethehero-andrewalkermo.netlify.com)
