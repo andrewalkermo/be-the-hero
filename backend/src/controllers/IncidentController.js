@@ -19,6 +19,7 @@ module.exports = {
                 'ongs.city',
                 'ongs.uf'
             ])
+        response.header('Access-Control-Expose-Headers', 'X-Total-Count');
         response.header("X-Total-Count", count['count(*)']);
         console.log(incidents);
         return response.json(incidents)
